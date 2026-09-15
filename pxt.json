@@ -1,5 +1,5 @@
 {
-    "name": "Libraries",
+    "name": "QualityOfLifeLibraries",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -11,9 +11,9 @@
         "main.ts",
         "README.md",
         "main.py",
-        "custom.ts",
-        "custom2.ts",
-        "custom3.ts"
+        "GridStorage.ts",
+        "RandomASCIGenerator.ts",
+        "RandomTrueOrFalse.ts"
     ],
     "testFiles": [
         "test.ts"

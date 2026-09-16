@@ -1,6 +1,6 @@
 {
     "name": "QualityOfLifeLibraries",
-    "description": "",
+    "description": "Adds quality of life things",
     "dependencies": {
         "core": "*",
         "radio": "*",

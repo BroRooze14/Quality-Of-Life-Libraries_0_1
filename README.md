@@ -1,24 +1,28 @@
+#Microbit MakeCode Quality Of Life Libraries
 
-> Open this page at [https://brorooze14.github.io/Quality-Of-Life-Libraries_0_1/](https://brorooze14.github.io/Quality-Of-Life-Libraries_0_1/)
 
-## Use as Extension
+## Description
+Adds quality of life things that makes things easy.
 
-This repository can be added as an **extension** in MakeCode.
+##Features
+* Adds a very simple way to store in a 2d grid.
+* Adds a random character generator. ASCI charecter 23 to 126.
+* Adds a random true or false generator.
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/brorooze14/Quality-Of-Life-Libraries_0_1** and import
+##How To Use
+1. Go to your project and open the extensions menu
+2. Enter the name Quality-Of-Life-Libraries_0_1 or https://github.com/brorooze14/Quality-Of-Life-Libraries_0_1 and add the extension.
+3. Done. You can now us the added blocks in the Grid Storage, Text and Logic categories.
 
-## Edit this project
+##Test File
+There is a test file named test.ts with some example TypeScript code. 
 
-To edit this repository in MakeCode.
+##Github BroRooze14
+Repository Name: Quality-Of-Life-Libraries_0_1
+Link: https://github.com/BroRooze14/Quality-Of-Life-Libraries_0_1
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/brorooze14/Quality-Of-Life-Libraries_0_1** and click import
+##License
+License with information in the file LICENSE.
 
-#### Metadata (used for search, rendering)
-
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+##Extra Information
+0_1

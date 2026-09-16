@@ -2,7 +2,7 @@
 
 
 ## Description
-Adds quality of life things that makes things easy.
+* Adds quality of life things that makes things easy.
 
 ##Features
 * Adds a very simple way to store in a 2d grid.
@@ -15,14 +15,14 @@ Adds quality of life things that makes things easy.
 3. Done. You can now us the added blocks in the Grid Storage, Text and Logic categories.
 
 ##Test File
-There is a test file named test.ts with some example TypeScript code. 
+* There is a test file named test.ts with some example TypeScript code. 
 
 ##Github BroRooze14
-Repository Name: Quality-Of-Life-Libraries_0_1
-Link: https://github.com/BroRooze14/Quality-Of-Life-Libraries_0_1
+* Repository Name: Quality-Of-Life-Libraries_0_1
+* Link: https://github.com/BroRooze14/Quality-Of-Life-Libraries_0_1
 
 ##License
-License with information in the file LICENSE.
+* License with information in the file LICENSE.
 
 ##Extra Information
-0_1
+* 0_1

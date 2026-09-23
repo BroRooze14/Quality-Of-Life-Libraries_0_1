@@ -6,7 +6,7 @@
 
 ##Features
 * Adds a very simple way to store in a 2d grid.
-* Adds a random character generator. ASCI charecter 23 to 126.
+* Adds a random character generator. ASCII charecter 23 to 126.
 * Adds a random true or false generator.
 
 ##How To Use
